@@ -7,7 +7,7 @@ In this repo, you can find my first datascience projet, combining web-scrapping,
 I used the dataset available at this adress :
 [https://archive.ics.uci.edu/ml/datasets/Statlog+%28Image+Segmentation%29]()
 
-![Dataset characteristics](capture.png "Dataset characteristics")
+![Dataset characteristics](dataset_charac.png "Dataset characteristics")
 
 The instances were drawn randomly from a database of 7 outdoor 
 images.  The images were handsegmented to create a classification
