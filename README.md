@@ -5,7 +5,7 @@ In this repo, you can find my first datascience projet, combining web-scrapping,
 ## Statlog Image Segmentation Dataset
 
 I used the dataset available at this adress :
-[https://archive.ics.uci.edu/ml/datasets/Statlog+%28Image+Segmentation%29]()
+[https://archive.ics.uci.edu/ml/datasets/Statlog+%28Image+Segmentation%29](https://archive.ics.uci.edu/ml/datasets/Statlog+%28Image+Segmentation%29)
 
 ![Dataset characteristics](dataset_charac.png "Dataset characteristics")
 
@@ -65,6 +65,10 @@ This project use a `ipython notebook`. You can launch an Anaconda instance to ex
 
 Using a package manager, you'll need to install `bokeh`, `matplotlib` and `scikit learn` to be able to execute the whole project.
 
+
+## Web Scrapping
+
+To retrieve the data, I used the `Selenium` library with Firefox web browser driver. Using the dataset URL, I was able to automatically load the data in a Dataframe.
 
 ## Data Viz
 
