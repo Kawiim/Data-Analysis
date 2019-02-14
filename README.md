@@ -46,18 +46,6 @@ Attribute Information:
     18. saturatoin-mean:  (see 17)
     19. hue-mean:  (see 17)
 
-8. Missing Attribute Values: None
-
-9. Class Distribution: 
-
-   Classes: 1 = brickface, 
-	    2 = sky, 
-	    3 = foliage, 
-	    4 = cement, 
-	    5 = window, 
-	    6 = path, 
-	    7 = grass.
-
 
 ## Usage
 
